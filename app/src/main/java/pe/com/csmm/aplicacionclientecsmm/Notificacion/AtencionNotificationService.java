@@ -1,5 +1,5 @@
 /*
-*Archivo modificado por Maycol
+*Archivo modificado por Maycol Paucar Sacha
  */
 package pe.com.csmm.aplicacionclientecsmm.Notificacion;
 
